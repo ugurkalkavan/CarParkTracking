@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="UITracker.exe" version="1.0.0.1" publicKeyToken="d014a02618c4a4ca" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="1519434074_tRx_icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="UITracker" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="UITracker.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Dapper.dll" size="177664">
+      <assemblyIdentity name="Dapper" version="1.60.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>2vLpGQOVROCg/vu4juSZhHHakH8x86seI8FY1WwSiBo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RawInput.dll" size="26112">
+      <assemblyIdentity name="RawInput" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>53/BKQqqWNGLYX66zSp+Jj0JAe1L12pD9KJBcdGDqbg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TrackerLibrary.dll" size="13312">
+      <assemblyIdentity name="TrackerLibrary" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>piLGj2DYslp4A5V2fuyAcWYybyy0MoqcsVYtbjnsf7k=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UITracker.exe" size="1478616">
+      <assemblyIdentity name="UITracker" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>NgkYuR+ICCSunwcdHK6yXyWhB1Q5+IXGWtLmfQ8C+Qk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="1519434074_tRx_icon.ico" size="1150">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5Wl+S+0p3iz1LYh2wncEM9PRQNEmSPCehUTlYkHu8Pw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Images\logo.jpg" size="36190">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4pbA7OpAo5kg0BpdpKV/0NI0FeTZb6611KgbannB5oU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="UITracker.exe.config" size="1432">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>asg1MMLVWLmLdiE9fCYM+iyvgyOs3h3lJTug9GI+8vA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on
+           and is designed to work with. Uncomment the appropriate elements
+           and Windows will automatically select the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=AzureAD\UgurKalkavan" issuerKeyHash="136b018d51e309b3cb10d0aed8f93805eb2742d4" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>c/0RI6zSgXtv3ONFvD6PQioIbaOAqKAHou+bBYt0tW8=</DigestValue></Reference></SignedInfo><SignatureValue>FLpesPsJiG4WFC4ePQ4VJvpOL842lAIIzt2kN+lsLpDXeQxI0shLxD3whqki2h/a1j8mdbxoWMX2V6J9b23/wqHYQc1VqzQux4E39fVoFzzLpzpPGHo0UQRZcVmkU6ItKbE7wcJA/qCPD+MeQPEg68EPq9RM35WoDUC+kLDAMqk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>sOT9gaMJEaI1tgheeIS8WX949ZL/bRWCpvC9g4p5lZw5p8XXEyDIV7CzzEbY8BWrFBuNl4OpV4X4Dh3FxKNkdXPUzLX7rTsF61slX16T1urvm7nB2EbJsji+HFlAMCNXL7yDMXt08VsqaPb5IuooiwHs9VYXF9u9M676UfhXzjE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6fb5748b059befa207a0a880a36d082a428f3ebc45e3dc6f7b81d2ac2311fd73" Description="" Url=""><as:assemblyIdentity name="UITracker.exe" version="1.0.0.1" publicKeyToken="d014a02618c4a4ca" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=AzureAD\UgurKalkavan</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Zp5aDRXW4RYeGVifISWo5XzjCeIo4exFEhU78VA5oV8=</DigestValue></Reference></SignedInfo><SignatureValue>VDA57jFj0WIvLYlhCtODsd/c1xqR3MdApwAldAJQAqKNhGPdKsS3Nn1KQtoJGW6n2MIUEzsP9XCEIC0h5+pehyt646FO1L1trUVXDzwvnnCK7IcOepNBjHSkWMjHaY+2c5uPvE0mBKUz2dPL3E03Ru80bKPaX599kB1cDQcErZY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>sOT9gaMJEaI1tgheeIS8WX949ZL/bRWCpvC9g4p5lZw5p8XXEyDIV7CzzEbY8BWrFBuNl4OpV4X4Dh3FxKNkdXPUzLX7rTsF61slX16T1urvm7nB2EbJsji+HFlAMCNXL7yDMXt08VsqaPb5IuooiwHs9VYXF9u9M676UfhXzjE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQUCMZ2hopC7JB/dLuC8MzzzANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigAQQB6AHUAcgBlAEEARABcAFUAZwB1AHIASwBhAGwAawBhAHYAYQBuMB4XDTE5MDQyNDIxMzMxN1oXDTIwMDQyNDAzMzMxN1owMzExMC8GA1UEAx4oAEEAegB1AHIAZQBBAEQAXABVAGcAdQByAEsAYQBsAGsAYQB2AGEAbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAsOT9gaMJEaI1tgheeIS8WX949ZL/bRWCpvC9g4p5lZw5p8XXEyDIV7CzzEbY8BWrFBuNl4OpV4X4Dh3FxKNkdXPUzLX7rTsF61slX16T1urvm7nB2EbJsji+HFlAMCNXL7yDMXt08VsqaPb5IuooiwHs9VYXF9u9M676UfhXzjECAwEAATANBgkqhkiG9w0BAQsFAAOBgQBDNaRIhAKk8R2AoGELtOk7LMOzmSbjvhTd8hIEegMzv/PtLxHiDI8+Q8ftAtcKJH0oVV1TWxoP1TORz2k1wMLKsPPZ4sEApioaOIc1yAnE/SahBMQ3pIMLAHg2EdUHba4fx/YW/Zt0V1A+NwIiQjmQkJak9f16bms1tyJz/Xw7lQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

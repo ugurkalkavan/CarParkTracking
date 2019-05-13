@@ -1,0 +1,12 @@
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\RawInput\bin\Debug\RawInput.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\RawInput\bin\Debug\RawInput.pdb
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\RawInput\obj\Debug\RawInput.csprojAssemblyReference.cache
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\RawInput\obj\Debug\RawInput.csproj.CoreCompileInputs.cache
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\RawInput\obj\Debug\RawInput.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\RawInput\obj\Debug\RawInput.pdb
+C:\Users\UgurKalkavan\source\repos\CarTracker\RawInput\bin\Debug\RawInput.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker\RawInput\bin\Debug\RawInput.pdb
+C:\Users\UgurKalkavan\source\repos\CarTracker\RawInput\obj\Debug\RawInput.csprojAssemblyReference.cache
+C:\Users\UgurKalkavan\source\repos\CarTracker\RawInput\obj\Debug\RawInput.csproj.CoreCompileInputs.cache
+C:\Users\UgurKalkavan\source\repos\CarTracker\RawInput\obj\Debug\RawInput.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker\RawInput\obj\Debug\RawInput.pdb

@@ -1,0 +1,58 @@
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\bin\Debug\UITracker.exe.config
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\bin\Debug\UITracker.exe
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\bin\Debug\UITracker.pdb
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\obj\Debug\UITracker.Properties.Resources.resources
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\obj\Debug\UITracker.csproj.GenerateResource.cache
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\obj\Debug\UITracker.csproj.CoreCompileInputs.cache
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\obj\Debug\UITracker.exe
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\obj\Debug\UITracker.pdb
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\obj\Debug\UITracker.UserControl1.resources
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\obj\Debug\UITracker.UserControl2.resources
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\obj\Debug\UITracker.Responsive_Form.resources
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\obj\Debug\UITracker.csprojAssemblyReference.cache
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\bin\Debug\OtoparkDB.mdf
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\bin\Debug\OtoparkDB_log.ldf
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\bin\Debug\TrackerLibrary.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\bin\Debug\Dapper.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\bin\Debug\TrackerLibrary.pdb
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\bin\Debug\Dapper.xml
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\obj\Debug\UITracker.csproj.CopyComplete
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\obj\Debug\UITracker.UserForm.resources
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\obj\Debug\UITracker.PriceConfirmationForm.resources
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\obj\Debug\UITracker.csprojAssemblyReference.cache
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\obj\Debug\UITracker.Form1.resources
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\obj\Debug\UITracker.PriceConfirmationForm2.resources
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\obj\Debug\UITracker.Properties.Resources.resources
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\obj\Debug\UITracker.Responsive_Form.resources
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\obj\Debug\UITracker.UserControl1.resources
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\obj\Debug\UITracker.UserControl2.resources
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\obj\Debug\UITracker.PriceConfirmationForm.resources
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\obj\Debug\UITracker.UserForm.resources
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\obj\Debug\UITracker.Form1.aa-DJ.resources
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\obj\Debug\UITracker.csproj.GenerateResource.cache
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\obj\Debug\UITracker.csproj.CoreCompileInputs.cache
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\obj\Debug\UITracker.exe
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\obj\Debug\UITracker.pdb
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\bin\Debug\OtoparkDB.mdf
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\bin\Debug\OtoparkDB_log.ldf
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\bin\Debug\UITracker.exe.config
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\bin\Debug\UITracker.exe
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\bin\Debug\UITracker.pdb
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\bin\Debug\aa-DJ\UITracker.resources.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\bin\Debug\RawInput.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\bin\Debug\TrackerLibrary.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\bin\Debug\Dapper.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\bin\Debug\RawInput.pdb
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\bin\Debug\TrackerLibrary.pdb
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\bin\Debug\Dapper.xml
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\obj\Debug\aa-DJ\UITracker.resources.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\UITracker\obj\Debug\UITracker.csproj.CopyComplete
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\bin\Debug\RawInput.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\bin\Debug\RawInput.pdb
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\obj\Debug\UITracker.MissingCard.resources
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\obj\Debug\UITracker.AdminLogin.resources
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\bin\Debug\UITracker.exe.manifest
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\bin\Debug\UITracker.application
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\obj\Debug\UITracker.TrustInfo.xml
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\obj\Debug\UITracker.exe.manifest
+C:\Users\UgurKalkavan\source\repos\CarTracker\UITracker\obj\Debug\UITracker.application

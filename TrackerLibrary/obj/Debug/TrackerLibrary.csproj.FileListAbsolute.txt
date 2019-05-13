@@ -1,0 +1,22 @@
+C:\Users\UgurKalkavan\source\repos\CarTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+C:\Users\UgurKalkavan\source\repos\CarTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\UgurKalkavan\source\repos\CarTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+C:\Users\UgurKalkavan\source\repos\CarTracker\TrackerLibrary\bin\Debug\Dapper.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker\TrackerLibrary\bin\Debug\Dapper.xml
+C:\Users\UgurKalkavan\source\repos\CarTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
+C:\Users\UgurKalkavan\source\repos\CarTracker\TrackerLibrary\bin\Debug\OtoparkDB.mdf
+C:\Users\UgurKalkavan\source\repos\CarTracker\TrackerLibrary\bin\Debug\OtoparkDB_log.ldf
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\TrackerLibrary\bin\Debug\OtoparkDB.mdf
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\TrackerLibrary\bin\Debug\OtoparkDB_log.ldf
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\TrackerLibrary\bin\Debug\Dapper.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\TrackerLibrary\bin\Debug\Dapper.xml
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+C:\Users\UgurKalkavan\source\repos\CarTracker - Copy\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+C:\Users\UgurKalkavan\source\repos\CarTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
